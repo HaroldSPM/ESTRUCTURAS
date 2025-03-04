@@ -1,6 +1,5 @@
 import numpy as np  
 
-
 np.random.seed(42)  
 candidatos = np.arange(1, 31)  
 votos = np.random.randint(0, 1000, size=30)  
